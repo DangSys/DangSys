@@ -10,8 +10,13 @@ Let's have a coffee with me and talk about monitoring tools, network and system 
 
 <img src="https://github.com/DangSys/DangSys/assets/168504365/0c478859-e5e7-4330-90ab-d95178d07207" width=300, height=400>
 
+
 20-year monitoring with Cacti. An powerful 2-decade tool.
+
 ![Screenshot from 2024-05-03 15-10-24](https://github.com/DangSys/DangSys/assets/168504365/49de9b14-658d-4c47-bab6-543f3dbbaf6a)
+
+16:30 3/5/2024 2nd-Floor HCMUT-Lib Met some greate 3rd-year dev from Faculty of Automiazation. They developed app with mixing of java,linux,c code with perfect feature. 
+I realized how i need to progress to catch with them......Great people with bright mind and heart.
 
 <!---
 DangSys/DangSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
