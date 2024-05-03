@@ -11,7 +11,6 @@ Let's have a coffee with me and talk about monitoring tools, network and system 
 <img src="https://github.com/DangSys/DangSys/assets/168504365/0c478859-e5e7-4330-90ab-d95178d07207" width=300, height=400>
 
 20-year monitoring with Cacti. An powerful 2-decade tool.
-<img src="https://github.com/DangSys/DangSys/assets/168504365/49de9b14-658d-4c47-bab6-543f3dbbaf6a" width=300, height=400>
 ![Screenshot from 2024-05-03 15-10-24](https://github.com/DangSys/DangSys/assets/168504365/49de9b14-658d-4c47-bab6-543f3dbbaf6a)
 
 <!---
