@@ -18,6 +18,8 @@ Let's have a coffee with me and talk about monitoring tools, network and system 
 16:30 3/5/2024 2nd-Floor HCMUT-Lib Met some greate 3rd-year dev from Faculty of Automiazation. They developed app with mixing of java,linux,c code with perfect feature. 
 I realized how i need to progress to catch with them......Great people with bright mind and heart.
 
+<h3>A little update: We need to build SNMP-Exporter-Config-Generator again :D</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/42473026-9944-4343-9adb-ecd7e80c2038" width=600, height=375 />
 <!---
 DangSys/DangSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
