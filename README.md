@@ -25,7 +25,7 @@ I realized how i need to progress to catch with them......Great people with brig
 <img src="https://github.com/DangSys/DangSys/assets/168504365/1ec5ccef-3180-499f-89b0-f874b2bbe914" wid=600, height=375 />
 
 <h3>Everything will passed, like past year, but i will miss this memory: Sitting favorate chair in Garage TD, calm my self and config everything</h3>
-
+<h3>But the cf is too strong, go home !!</h3>
 <!---
 DangSys/DangSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
