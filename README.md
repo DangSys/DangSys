@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on System Automization.
 - 📫 How to reach me : dangvq.sys@gmail.com
 - 😄 Pronouns:
-      "There is no lose. Only win or lession"
-      "I can accept failure, but can't accept not trying"
-      "Nếu không có sự chuẩn bị đẩy đủ, một đĩa thành công sẽ được đổi bằng một mâm thất bại"
+"There is no lose. Only win or lession"
+"I can accept failure, but can't accept not trying"
+"Nếu không có sự chuẩn bị đẩy đủ, một đĩa thành công sẽ được đổi bằng một mâm thất bại"
 - ⚡ Fun fact: I have just swapped from Enterprise Networking to System Administration recently. This page will record my process in this adventure.
 
 Let's have a coffee with me and talk about monitoring tools, network and system automization.
