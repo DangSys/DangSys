@@ -18,14 +18,7 @@ Let's have a coffee with me and talk about monitoring tools, network and system 
 16:30 3/5/2024 2nd-Floor HCMUT-Lib Met some greate 3rd-year dev from Faculty of Automiazation. They developed app with mixing of java,linux,c code with perfect feature. 
 I realized how i need to progress to catch with them......Great people with bright mind and heart.
 
-<h3>A little update: We need to build SNMP-Exporter-Config-Generator again :D</h3>
-<img src="https://github.com/DangSys/Grafana/assets/168504365/42473026-9944-4343-9adb-ecd7e80c2038" width=600, height=375 />
 
-<h3>It is due to Source code error, go version differences</h3>
-<img src="https://github.com/DangSys/DangSys/assets/168504365/1ec5ccef-3180-499f-89b0-f874b2bbe914" wid=600, height=375 />
-
-<h3>Everything will passed, like past year, but i will miss this memory: Sitting favorate chair in Garage TD, calm my self and config everything</h3>
-<h3>But the cf is too strong, go home !!</h3>
 <!---
 DangSys/DangSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
