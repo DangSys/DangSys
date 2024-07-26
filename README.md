@@ -36,7 +36,12 @@ Alert generating on Prometheus AlertManager WebUI
 
 It has been a time i haven't visited my favorate cf shop, maybe this weekend is a good time.
 
+A little update: 5:39PM 26/7/2024 2000-page documents from Cisco press :D
+![Screenshot 2024-07-26 154952](https://github.com/user-attachments/assets/18c87543-1032-4a7b-bce0-bdd360508287)
 
+![Screenshot 2024-07-26 160133](https://github.com/user-attachments/assets/aeb8aaaa-4e25-4d81-9059-9777d414dc2f)
+
+I think this is nothing compared to Korean Med Exams :D
 
 <!---
 DangSys/DangSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
