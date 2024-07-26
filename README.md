@@ -22,12 +22,18 @@ Let's have a coffee with me and talk about monitoring tools, network and system 
 I realized how i need to progress to catch with them......Great people with bright mind and heart.
 
 9:48 26/7/2024: long time no see, take a look on my grafana
+
 Ubuntu monitoring:
+
 ![Screenshot 2024-07-26 094606](https://github.com/user-attachments/assets/ae747d4c-8809-4ea7-b1b5-0cce2b650bbe)
 Windows monitoring:
+
 ![Screenshot 2024-07-26 094954](https://github.com/user-attachments/assets/d938a7d6-cacb-4451-9b03-8d0d4355d86b)
+
 Alert generating on Prometheus AlertManager WebUI
+
 ![image](https://github.com/user-attachments/assets/6c1fb929-5819-490b-844c-56e02f6a3859)
+
 It has been a time i haven't visited my favorate cf shop, maybe this weekend is a good time.
 
 
