@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning System/OS(Debian, Redhat)/MonitoringTool(Grafana,Prometheus)/Script(Bash,Python)/Hosting(Nginx,Apache))
 - 💞️ I’m looking to collaborate on System Automization.
 - 📫 How to reach me : dangvq.sys@gmail.com
-- 😄 Pronouns:\n
-"There is no lose. Only win or lession"
+- 😄 Pronouns:
+<p>"There is no lose. Only win or lession"<\p>
 
 "I can accept failure, but can't accept not trying"
 "Nếu không có sự chuẩn bị đẩy đủ, một đĩa thành công sẽ được đổi bằng một mâm thất bại"
