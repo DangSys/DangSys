@@ -52,6 +52,9 @@ I always wish to meet these great mentors in my life.
 Can anybody tell me why don't use 10Gbps instead of bundling 2 1Gbps? ><><
 ![Screenshot 2024-07-27 183902](https://github.com/user-attachments/assets/966ea395-1b8b-4f0b-8057-f42d706126aa)
 
+Americano in this cf is good, fortunately, last time i tried espresso here and it was so bad.
+![20240727_190100](https://github.com/user-attachments/assets/308b4123-f301-415b-b23e-4de13a13faf5)
+
 
 <!---
 DangSys/DangSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
