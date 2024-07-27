@@ -55,6 +55,11 @@ Can anybody tell me why don't use 10Gbps instead of bundling 2 1Gbps? ><><
 Americano in this cf is good, fortunately, last time i tried espresso here and it was so bad.
 ![20240727_190100](https://github.com/user-attachments/assets/308b4123-f301-415b-b23e-4de13a13faf5)
 
+<p>Operation is much more overhead than Configuration.</p>
+<p>My last think is so wrong</p>
+
+![Screenshot 2024-07-27 190744](https://github.com/user-attachments/assets/82c962dc-ac33-4135-87c0-bf35bfcdc194)
+
 
 <!---
 DangSys/DangSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
