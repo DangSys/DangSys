@@ -43,6 +43,16 @@ A little update: 5:39PM 26/7/2024 2000-page documents from Cisco press :D
 
 I think this is nothing compared to Korean Med Exams :D
 
+Already chapter 5, this is so well-explaned by professional CCIE instructors.
+
+I always wish to meet these great mentors in my life.
+
+![Screenshot 2024-07-27 182049](https://github.com/user-attachments/assets/1b78d75f-0323-4782-9fc9-403eced0a813)
+
+Can anybody tell me why don't use 10Gbps instead of bundling 2 1Gbps? ><><
+![Screenshot 2024-07-27 183902](https://github.com/user-attachments/assets/966ea395-1b8b-4f0b-8057-f42d706126aa)
+
+
 <!---
 DangSys/DangSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
