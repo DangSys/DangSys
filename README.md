@@ -63,12 +63,12 @@ Americano in this cf is good, fortunately, last time i tried espresso here and i
 <p>Quote for today</p>
 <img src="https://github.com/user-attachments/assets/f8a55103-485f-428b-8b99-eed52a0e6f5a" width=1200, height=400>
 
-Already Chapter 7, but missing validated document for IPv6 section
+<p>Already Chapter 7, but missing validated document for IPv6 section</p>
 ![image](https://github.com/user-attachments/assets/bb88f7e1-5fb8-4bec-a366-44254958b46d)
 
-Very thanksful for guy who give me these books, i can't find free pdf.
+<p>Very thanksful for guy who give me these books, i can't find free pdf.</p>
 ![51jrhH2VAAL _SY445_SX342_](https://github.com/user-attachments/assets/9a18c81b-4136-41f0-abbf-37b1997f1e92)
-
+<p>and</p>
 ![IPv6-Fundamentals-A-Straightforward-Approach-to-Understanding-IPv6-2nd-Edition_pdf_download](https://github.com/user-attachments/assets/e014c138-b259-4d87-aa37-0d723ffbd3e6)
 
 
