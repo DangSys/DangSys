@@ -60,6 +60,8 @@ Americano in this cf is good, fortunately, last time i tried espresso here and i
 
 ![Screenshot 2024-07-27 190744](https://github.com/user-attachments/assets/82c962dc-ac33-4135-87c0-bf35bfcdc194)
 
+<p>Quote for today</p>
+![image](https://github.com/user-attachments/assets/b3879abb-8878-4571-ae77-2c2f512425bd)
 
 <!---
 DangSys/DangSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
