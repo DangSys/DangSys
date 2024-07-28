@@ -67,9 +67,9 @@ Americano in this cf is good, fortunately, last time i tried espresso here and i
 <img src="https://github.com/user-attachments/assets/bb88f7e1-5fb8-4bec-a366-44254958b46d" width=1200, height=400>
 
 <p>Very thanksful for guy who give me these books, i can't find free pdf.</p>
-<img src="https://github.com/user-attachments/assets/9a18c81b-4136-41f0-abbf-37b1997f1e92" width=1200, height=400>
+<img src="https://github.com/user-attachments/assets/9a18c81b-4136-41f0-abbf-37b1997f1e92" width=600, height=400>
 <p>and</p>
-<img src="https://github.com/user-attachments/assets/e014c138-b259-4d87-aa37-0d723ffbd3e6" width=1200, height=400>
+<img src="https://github.com/user-attachments/assets/e014c138-b259-4d87-aa37-0d723ffbd3e6" width=600, height=400>
 
 
 
